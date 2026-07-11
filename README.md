@@ -41,14 +41,15 @@ Curso Ingeniería de Sistemas y Computación en la **Universidad del Quindío (U
 
 Cofundador de **[The KernelGames](https://github.com/the-kernelgames)** — colectivo indie universitario del Quindío que construye videojuegos, experimentos y herramientas en código abierto. *"Aprender. Crear. Romper. Repetir."*
 
-## 📊 Stats
+## 🐧 Mi distro
 
-<div align="center">
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="110"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" alt="Ubuntu" width="190"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dbarrientos-snap&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbarrientos-snap&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center"><sub>Fedora en el día a día · Ubuntu cuando toca estabilidad</sub></p>
 
 ## 🔗 Enlaces
 

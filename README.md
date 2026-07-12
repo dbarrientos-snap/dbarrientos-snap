@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Daniel Barrientos
 
-### Estudiante de Ingeniería de Sistemas y Computación · Futuro científico en CS ⚝
+### Estudiante de Ingeniería de Sistemas y Computación y tecnología en ADSO · Futuro científico en CS ⚝
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ## 🧭 Sobre mí
 
-Curso Ingeniería de Sistemas y Computación en la **Universidad del Quindío (UQ)**, en paralelo con **Tecnología en ADSO**. Voy construyendo el camino desde los fundamentos de la computación hacia la integración hardware-software, con la investigación como horizonte.
+Curso Ingeniería de Sistemas y Computación en la **Universidad del Quindío (UQ)**, en paralelo con **Tecnología en ADSO en el SENA**. Voy construyendo poco a poco mi camino hacia un futuro que la computación sea la mejor amiga, aliada de la humanidad ha tenido. 
 
 - 📍 Quindío, Colombia
-- 🎓 Ing. Sistemas y Computación (UQ) · Tec. ADSO
-- 🧭 Ruta: fundamentos CS → integración hardware-software → investigación
-- 🐧 Linux por convicción: Arch, Debian, Fedora — con KDE Plasma
+- 🎓 Ing. Sistemas y Computación (UQ) · Tec. ADSO SENA.
+- 🧭 Ruta: fundamentos CS → integración hardware-software → investigación en Doctorado y Maestría.
+- 🐧 Linux por convicción: Debian, Fedora y Ubuntu — con KDE Plasma o GNOME es bueno. 
 
 ## 🔭 Intereses
 
@@ -35,8 +35,6 @@ Curso Ingeniería de Sistemas y Computación en la **Universidad del Quindío (U
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Entorno:** Arch Linux · Debian · Fedora · KDE Plasma · VS Code · bash
-
 ## 🎮 Con el equipo
 
 Cofundador de **[The KernelGames](https://github.com/the-kernelgames)** — colectivo indie universitario del Quindío que construye videojuegos, experimentos y herramientas en código abierto. *"Aprender. Crear. Romper. Repetir."*
@@ -44,12 +42,10 @@ Cofundador de **[The KernelGames](https://github.com/the-kernelgames)** — cole
 ## 🐧 Mi distro
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="110"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" alt="Ubuntu" width="190"/>
 </p>
 
-<p align="center"><sub>Fedora en el día a día · Ubuntu cuando toca estabilidad</sub></p>
+<p align="center"><sub>Ubuntu por su estabilidad</sub></p>
 
 ## 🔗 Enlaces
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Daniel Barrientos
+# 👋 Hola, soy Daniel Barrientos ✰
 
 ### Estudiante de Ingeniería de Sistemas y Computación y tecnología en ADSO · Futuro científico en CS ⚝
 

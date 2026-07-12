@@ -19,7 +19,7 @@ Curso Ingeniería de Sistemas y Computación en la **Universidad del Quindío (U
 
 ## 🔭 Intereses
 
-`computación` `física` `electrónica` `open source` `dev de videojuegos indie` `ciberseguridad`
+`computación` `física` `electrónica` `open source` `ciberseguridad`
 
 ## 🧰 Stack
 

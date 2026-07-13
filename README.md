@@ -10,7 +10,7 @@
 
 ## 🧭 Sobre mí
 
-Curso Ingeniería de Sistemas y Computación en la **Universidad del Quindío (UQ)**, en paralelo con **Tecnología en ADSO en el SENA**. Voy construyendo poco a poco mi camino hacia un futuro que la computación sea la mejor amiga, aliada de la humanidad ha tenido. 
+Curso actualmente Ingeniería de Sistemas y Computación en la **Universidad del Quindío (UQ)**, y a su vez **Tecnología en ADSO en el SENA**. Este perfil de Github es para que vean vosotros mis proyectos personales.
 
 - 📍 Quindío, Colombia
 - 🎓 Ing. Sistemas y Computación (UQ) · Tec. ADSO SENA.
